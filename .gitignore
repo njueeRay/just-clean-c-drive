@@ -1,0 +1,15 @@
+# .gitignore — just-clean-c-drive
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+*.swp
+
+# Logs（运行时生成，不入库）
+*.log
+
+# Test output
+test-results/
