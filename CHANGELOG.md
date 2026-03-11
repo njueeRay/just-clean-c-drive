@@ -7,6 +7,9 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+- README 品牌化重写：新增品牌故事、量化清理数据表、与付费工具对比表
+
 ## [2.0.0] - 2026-03-11
 
 ### Added
